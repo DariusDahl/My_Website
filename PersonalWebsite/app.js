@@ -1,3 +1,3 @@
 function alertButten() {
-    alert("Hello World!");
+    alert("Welcome to my website!");
 }
