@@ -179,6 +179,7 @@ style {
     padding: var(--spacer);
     background: var(--spacer);
     border-radius: var(--spacer);
+    color:#9c27b0;
     box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
 }
 .media-element > img {
